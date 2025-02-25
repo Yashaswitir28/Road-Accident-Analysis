@@ -10,35 +10,35 @@ The dashboard consists of several key components:
 
 1. Key Metrics
 
-Total Casualties: 162,019
+- Total Casualties: 162,019
 
-Fatal Casualties: 4,816 (3.0%)
+- Fatal Casualties: 4,816 (3.0%)
 
-Serious Casualties: 28,879 (17.8%)
+- Serious Casualties: 28,879 (17.8%)
 
-Slight Casualties: 128,324 (79.2%)
+- Slight Casualties: 128,324 (79.2%)
 
-Casualties by Car: 130,128 (80.3%)
+- Casualties by Car: 130,128 (80.3%)
 
 
 2. Total Casualties by Vehicle Type
 
-Car: 130,128
+- Car: 130,128
 
-Bus: 13,056
+- Bus: 13,056
 
-Truck: 4,663
+- Truck: 4,663
 
-Bicycle: 12,454
+- Bicycle: 12,454
 
-Motorcycle: 434
+- Motorcycle: 434
 
-Other: 1,284
+- Other: 1,284
 
 
 3. Comparative Analysis
 
--Current Year vs Previous Year: A line chart shows monthly casualties for 2021 and 2022, enabling trend analysis.
+- Current Year vs Previous Year: A line chart shows monthly casualties for 2021 and 2022, enabling trend analysis.
 
 - Casualties by Road Type: Displays the number of casualties for different road conditions (Dry, Wet, Snow/Ice, etc.).
 
